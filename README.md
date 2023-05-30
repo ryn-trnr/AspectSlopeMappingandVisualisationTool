@@ -15,3 +15,6 @@ Yaguang Tao
 
 
 Ryan Turner
+
+![image](https://github.com/ryn-trnr/AspectSlopeMappingandVisualisationTool/assets/128788495/7915a47b-d819-47c6-94e1-fc701b1fedb7)
+Example of Aspect, Slope, and Aspect-Slope map outputs all produced at once within the same tool.
